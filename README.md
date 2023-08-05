@@ -37,6 +37,24 @@
   ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) Linux (Ubuntu), 
   ![CentOS](https://img.icons8.com/color/48/000000/centos.png) CentOS
 
+
+
+## Networking Expertise 🌐
+
+- **Networking:** TCP/IP, VLANs, VPN, OSPF, EIGRP, BGP, STP, VTP
+- **Cisco Devices:** Routers (ISR, ASR), Switches (Catalyst, Nexus), ASA Firewalls
+- **Software:** Cisco Packet Tracer, GNS3, Docker, Kubernetes(K8), SolarWinds, PuTTY
+- **Network Monitoring:** SNMP, NetFlow, Syslog
+- **Security:** Firewall Configuration, ACLs, NAT, VPN
+- **Protocols:** DNS, DHCP, HTTP, HTTPS
+- **Programming:** Python, C/C++, Bash Scripting
+- **Network Virtualization:** VMware NSX, VirtualBox
+- **Cloud Networking:** AWS, Azure, Google Cloud Platform (GCP)
+- **Network Security:** IDS/IPS, SIEM, DDoS Mitigation
+- **Network Troubleshooting:** Wireshark, TCPdump, PingPlotter, Nessus, openVas
+- **Network Load Balancing:** F5 BIG-IP, Citrix NetScaler
+
+
 ## EDUCATION 🎓
 
 **Bachelor of Science in Computer Science**  
