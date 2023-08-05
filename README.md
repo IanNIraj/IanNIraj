@@ -1,24 +1,35 @@
-- 👋 Hi, I’m @IanNIraj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Niraj Bhatt, an curious and problem solver software engineer with a passion for developing innovative solutions.
 
-I'm a passionate and creative software developer with a strong interest in AI and full-stack web development.
+🌱 I have a strong foundation in software development and operating systems, and I'm proficient in multiple programming languages and frameworks. I'm a quick learner and critical thinker, dedicated to creating efficient and reliable software to meet user needs. I am committed to staying at the forefront of technology advancements and leveraging emerging tools to drive success in software engineering projects.
 
-🌱 I’m currently learning new technologies and exploring the exciting world of data science and cloud computing.
+🚀 Technologies & Tools
+Programming Languages:
+Python Python,
+Java Java,
+C++ C++,
+JavaScript JavaScript,
+SQL SQL
 
-## 🚀 Technologies & Tools
+Front-End Technologies:
+HTML5 HTML5,
+CSS3 CSS3,
+Bootstrap Bootstrap,
+React React
 
-- Programming Languages: Python, JavaScript
-- Front-End: HTML, CSS, React
-- Back-End: Node.js, Express.js
-- Database: MongoDB, SQLite
-- AI Libraries: TensorFlow, Keras, Scikit-learn
-- Version Control: Git
-- Text Editor: Visual Studio Code
+Back-End Technologies:
+Node.js Node.js,
+Express.js Express.js,
+Django Django
 
+Database Systems:
+MySQL MySQL,
+MongoDB MongoDB
 
-## 📞 Let's Connect
+Version Control:
+Git Git,
+GitHub GitHub
 
-📧 Email: Ianbhatt9@gmail.com
+Operating Systems:
+Windows Windows,
+Ubuntu Linux (Ubuntu),
+CentOS CentOS
