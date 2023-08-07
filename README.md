@@ -61,23 +61,6 @@
 Colorado Technical University, Monument, Colorado  
 Graduated June 2023
 
-## PROJECTS 💻
-
-1. **Dynamic Web Applications | Monument, Colorado**
-   - Developed dynamic web applications using React and Node.js, enabling seamless user interactions and real-time updates.
-   - Implemented responsive UI/UX design for optimal user experience across devices.
-
-2. **Online Store API Integration | Monument, Colorado**
-   - Integrated e-commerce APIs to build a fully functional online store. (url: http://urbanfirepizza.one/)
-   - Utilized Django framework and RESTful API principles to handle user authentication, shopping cart, and payment processing.
-
-3. **Operating System Simulator | Monument, Colorado**
-   - Designed an operating system simulator in C++ to understand the concepts of process scheduling, memory management, and file systems.
-   - Implemented algorithms for CPU scheduling and memory allocation.
-
-4. **Data Visualization Dashboard | Monument, Colorado**
-   - Created a data visualization dashboard using Python and Matplotlib to represent complex data trends in a user-friendly graphical format.
-   - Enabled data-driven decision making for business stakeholders.
 
 ## EXTRACURRICULAR ACTIVITIES 🎯
 
@@ -86,8 +69,10 @@ Graduated June 2023
 
 ## 📞 Let's Connect 📞
 
-- **Email:** ianbhatt9@gmail.co
+- **Email:** ianbhatt9@gmail.com
 - **Phone:** (719) 964 0343
 - **Github:** [github.com/IanNIraj](https://github.com/IanNIraj)
 - **Portfolio:** [mysite-a.web.app](http://mysite-a.web.app)
 - **Address:** Monument, Colorado
+
+## PROJECTS 💻
